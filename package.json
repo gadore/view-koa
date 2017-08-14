@@ -1,6 +1,6 @@
 {
     "name": "view-koa",
-    "version": "1.0.0",
+    "version": "0.0.2",
     "description": "Let's start with MVC !",
     "main": "app.js",
     "scripts": {
